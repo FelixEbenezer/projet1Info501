@@ -1,0 +1,133 @@
+{"contacts": [
+   {
+      "idUsine": 1,
+      "parkings": [
+         {
+            "idParking": 1,
+            "placesParking": [
+               {
+                  "voiture": {
+                     "couleurVoiture": "Bleu",
+                     "radar": false,
+                     "niuVoiture": "hhdg34",
+                     "gps": false,
+                     "vitreElectrique": false,
+                     "numeroMoteur": {
+                        "numMoteur": 1,
+                        "carburant": "ESSENCE",
+                        "puissanceMoteur": 120.5
+                     },
+                     "modeleVoiture": {
+                        "description": "Twingo",
+                        "idModele": 1
+                     },
+                     "idVoiture": 1,
+                     "dateFabricationVoiture": "10/2/2020"
+                  },
+                  "range": "A",
+                  "numRange": 1
+               },
+               {
+                  "voiture": {
+                     "couleurVoiture": "Jaune",
+                     "radar": false,
+                     "niuVoiture": "hhdg333",
+                     "gps": true,
+                     "vitreElectrique": true,
+                     "numeroMoteur": {
+                        "numMoteur": 2,
+                        "carburant": "DIESELE",
+                        "puissanceMoteur": 120.5
+                     },
+                     "modeleVoiture": {
+                        "description": "Peugeot",
+                        "idModele": 2
+                     },
+                     "idVoiture": 2,
+                     "dateFabricationVoiture": "10/2/2020"
+                  },
+                  "range": "B",
+                  "numRange": 2
+               }
+            ]
+         },
+         {
+            "idParking": 2,
+            "placesParking": [
+               {
+                  "voiture": {
+                     "couleurVoiture": "Bleu",
+                     "radar": false,
+                     "niuVoiture": "hhdg34",
+                     "gps": false,
+                     "vitreElectrique": false,
+                     "numeroMoteur": {
+                        "numMoteur": 1,
+                        "carburant": "ESSENCE",
+                        "puissanceMoteur": 120.5
+                     },
+                     "modeleVoiture": {
+                        "description": "Twingo",
+                        "idModele": 1
+                     },
+                     "idVoiture": 1,
+                     "dateFabricationVoiture": "10/2/2020"
+                  },
+                  "range": "A",
+                  "numRange": 1
+               },
+               {
+                  "voiture": {
+                     "couleurVoiture": "Jaune",
+                     "radar": false,
+                     "niuVoiture": "hhdg333",
+                     "gps": true,
+                     "vitreElectrique": true,
+                     "numeroMoteur": {
+                        "numMoteur": 2,
+                        "carburant": "DIESELE",
+                        "puissanceMoteur": 120.5
+                     },
+                     "modeleVoiture": {
+                        "description": "Peugeot",
+                        "idModele": 2
+                     },
+                     "idVoiture": 2,
+                     "dateFabricationVoiture": "10/2/2020"
+                  },
+                  "range": "B",
+                  "numRange": 2
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "idUsine": 1,
+      "parkings": [{
+         "idParking": 1,
+         "placesParking": [{
+            "voiture": {
+               "couleurVoiture": "Bleu",
+               "radar": false,
+               "niuVoiture": "hhdg34",
+               "gps": false,
+               "vitreElectrique": false,
+               "numeroMoteur": {
+                  "numMoteur": 1,
+                  "carburant": "ESSENCE",
+                  "puissanceMoteur": 120.5
+               },
+               "modeleVoiture": {
+                  "description": "Twingo",
+                  "idModele": 1
+               },
+               "idVoiture": 1,
+               "dateFabricationVoiture": "10/2/2020"
+            },
+            "range": "A",
+            "numRange": 1
+         }]
+      }]
+   }
+]}

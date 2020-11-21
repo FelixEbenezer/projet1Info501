@@ -1,0 +1,14 @@
+{"contacts": [
+   {
+      "password": "123",
+      "role": "RESP_USINE",
+      "idUtilisateur": 1,
+      "login": "Nganga"
+   },
+   {
+      "password": "123",
+      "role": "Concessionnaire",
+      "idUtilisateur": 2,
+      "login": "Ben"
+   }
+]}
